@@ -1,2 +1,4 @@
-# ai-learing-journey
-0 to agent
+# AI学习之旅
+运营人转型ai， 目标12周独立做出一个agent并实战求职
+- 2026-10-18： GitHub开张， 上传学习计划
+- 2026-10-19： 注册Coze/ 看Coze新手教程/ 注册ds
